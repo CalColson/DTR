@@ -1,2 +1,2 @@
 # DTR
-Social media application for driving enthusiasts
+Social media application for car/driving enthusiasts
